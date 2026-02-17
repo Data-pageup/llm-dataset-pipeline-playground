@@ -20,7 +20,10 @@
 ## 4. Chat Dataset Format
 - Converted instruction dataset into chat format
 
+- ## Also trying to build SLM
+
  
+
 
 
 
